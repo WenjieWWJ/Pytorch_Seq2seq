@@ -1,5 +1,5 @@
 # Pytorch_Seq2seq
-The sequence-to sequence model implemented by pytorch
+The attention-augmented sequence-to sequence model implemented by pytorch
 
 modified from pytorch tutorial(https://pytorch.org/tutorials/)
 
